@@ -27,33 +27,16 @@ ecommerce-dashboard/
 ├── ecommerce_kpis_2024.csv  # Sample dataset (2024)
 └── requirements.txt         # Python dependencies
 
-🛠️ Installation & Setup
-1. Clone this repository:
-git clone https://github.com/your-username/ecommerce-dashboard.git
-cd ecommerce-dashboard
+🛠️ Run & Setup
 
-2. Install required packages:
+1. Install required packages:
 pip install -r requirements.txt
 
-3. Run the Streamlit app:
+2. Run the Streamlit app:
 streamlit run app.py
 
 
 Then open your browser and go to 👉 http://localhost:8501
-
-☁️ Deployment (Streamlit Cloud)
-
-Push this repo to GitHub
-
-Go to https://share.streamlit.io
-
-Click New App → Select your repo → Choose app.py
-
-Click Deploy 🚀
-
-You’ll get a live public URL like:
-
-https://your-username-ecommerce-dashboard.streamlit.app
 
 📊 Sample Data (Included)
 
